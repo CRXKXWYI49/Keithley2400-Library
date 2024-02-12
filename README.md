@@ -1,1 +1,1 @@
-Keithley 2400 Source meter library
+Keithley 2400 Source Meter library
